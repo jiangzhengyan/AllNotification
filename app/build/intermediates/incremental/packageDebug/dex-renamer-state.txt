@@ -1,0 +1,7 @@
+#Wed Feb 22 13:36:05 CST 2017
+base.0=C\:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_04ca4cd2493d53f3a4808d07682520799a282495
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_44d53a6a84f25a356ce0b7d0ed76049da108cf93\\classes.dex
+base.1=C\:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_44d53a6a84f25a356ce0b7d0ed76049da108cf93
+file.0=C\:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_04ca4cd2493d53f3a4808d07682520799a282495\\classes.dex

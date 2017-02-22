@@ -1,22 +1,19 @@
 package com.example.notifications;
 
 
-import java.io.File;
-
-import com.example.notifications.base.BaseActivity;
-
-import android.net.Uri;
-import android.os.Bundle;
-import android.app.Activity;
 import android.app.Notification;
-import android.app.NotificationManager;
 import android.app.PendingIntent;
 import android.content.Intent;
+import android.net.Uri;
+import android.os.Bundle;
 import android.support.v4.app.NotificationCompat;
-import android.view.Menu;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+
+import com.example.notifications.base.BaseActivity;
+
+import java.io.File;
 /*
  * 通知栏应用
  */
@@ -179,12 +176,6 @@ public class MainActivity extends BaseActivity implements OnClickListener{
 		mNotificationManager.notify(notifyId, mBuilder.build());
 	}
 
-	@Override
-	public boolean onCreateOptionsMenu(Menu menu) {
-		// Inflate the menu; this adds items to the action bar if it is present.
-		getMenuInflater().inflate(R.menu.main, menu);
-		return true;
-	}
 
 	@Override
 	public void onClick(View v) {
