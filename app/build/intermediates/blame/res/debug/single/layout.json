@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_custom_progress.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\src\\main\\res\\layout\\view_custom_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_custom_button.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\src\\main\\res\\layout\\view_custom_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_custom.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\src\\main\\res\\layout\\view_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\src\\main\\res\\layout\\custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

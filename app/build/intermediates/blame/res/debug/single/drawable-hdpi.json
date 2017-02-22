@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_play.png",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\src\\main\\res\\drawable-hdpi\\btn_play.png"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_prev.png",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\src\\main\\res\\drawable-hdpi\\btn_prev.png"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_next.png",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\src\\main\\res\\drawable-hdpi\\btn_next.png"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_pause.png",
+        "source": "C:\\Users\\jiang_yan\\Desktop\\AllNotification\\app\\src\\main\\res\\drawable-hdpi\\btn_pause.png"
+    }
+]
